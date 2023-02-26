@@ -1,6 +1,7 @@
 * In this project I have created a product management flow in ecommerce site from seller side. 
 * Here In this project User can add products, edit product details like name, quantity, price, he can add product into cart, description, etc.
 * It's purely based on flutter (dart) only.
+* In cart discount will get deducted from total price which is a addition of total price and taxes on it.
 
 
 <img src="https://user-images.githubusercontent.com/46574484/221426082-2c651c32-061b-4851-bed8-e5ecddca4440.png" width="300" height="500">
